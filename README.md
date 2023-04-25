@@ -1,2 +1,2 @@
 # SSL
-minGW y std C23
+2023
